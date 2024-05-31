@@ -7,7 +7,7 @@ Es un archivo único que contiene todos los programas, librerías, dependencias 
 
 
 ## ¿Cuál es la relación entre una imagen y un contenedor? 
-# COMPLETAR 
+# Una imagen es una plantilla que me ayuda a crear un contenedor con ciertos parámetros, el contenedor en sí es una instancia de esa imagen 
 
 ![Imagen y contenedores](imagenes/imagenYcontenedores.JPG)
 ## Comandos para imágenes
@@ -27,13 +27,15 @@ docker pull <nombre imagen>:<tag>
 ```
 
 Descargar la imagen **hello-world**
-# COMPLETAR
+![image](https://github.com/JorMath/2024A-ISWD633-GR2/assets/94020880/ef1e4bd6-29ed-49e3-9bef-b3e03d6d39dc)
+
 
 **¿Qué es nginx**
-# COMPLETAR 
+# nginx es un servidor web de código abierto, esto nos permite tanto visualizar como desplegar las webs en ese servidor 
 
 Descargar la imagen  **nginx** en la versión **alpine**
-# COMPLETAR
+![image](https://github.com/JorMath/2024A-ISWD633-GR2/assets/94020880/319838cf-f0e3-42df-b011-07f0f936f9a1)
+
 
 ### Listar imágenes
 
