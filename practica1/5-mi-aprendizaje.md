@@ -1,3 +1,2 @@
 # COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+Se aprendieron los principales conceptos de Docker, sus principales comandos, de alguna manera ayuda en el desarrollo profesional ya que se necesitaban estos conocimientos para la materia de metodologías ágiles, puesto que se necesitaba desplegar una aplicación web con Docker
