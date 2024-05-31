@@ -43,7 +43,8 @@ Descargar la imagen  **nginx** en la versión **alpine**
 docker images
 ```
 
-# COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO 
+![image](https://github.com/JorMath/2024A-ISWD633-GR2/assets/94020880/b229d87a-5df6-45ef-bbda-593b991e1260)
+
 
 **Identificadores**
 En Docker, se utilizan varios identificadores para diferenciar de manera única los elementos del sistema, como imágenes, contenedores, volúmenes y redes. Estos identificadores son generados automáticamente por Docker y son únicos dentro del contexto del sistema Docker en el que se encuentran. 
@@ -57,10 +58,11 @@ docker inspect <nombre imagen>:<tag>
 ```
 
 Inspeccionar la imagen hello-world 
-# COMPLETAR
+![image](https://github.com/JorMath/2024A-ISWD633-GR2/assets/94020880/278b46e5-a928-4a0a-a17b-1ef596319b38)
+
 
 **¿Con qué algoritmo se está generando el ID de la imagen**
-# COMPLETAR
+# Con el sha256
 
 ### Filtrar imágenes
 
